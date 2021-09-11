@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[submodule]
+	active = .
+[remote "origin"]
+	url = git@github.com:pantomico/SDFE2OSM.git
+	puttykeyfile = C:\\Users\\mico.PANTOINSPECT\\.ssh\\github.ppk
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
