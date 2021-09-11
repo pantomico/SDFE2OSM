@@ -28,8 +28,8 @@ Tjek denne fil findes: "C:\OSGeo4W\bin\cs2cs.exe"
 # Hvordan virker det?
 
 I JOSM, selecter 1 til 10 byginger og deres adresse noder
-tip: <Ctrl>F   og så filter på:    building=* or osak\:identifier=*
-Når du har de rigtige selection, tryk <Ctrl>C for at kopiere på klembord.
+tip: `<Ctrl>F   og så filter på:    building=* or osak\:identifier=*`
+Når du har de rigtige selection, tryk `<Ctrl>C` for at kopiere på klembord.
 Programmet vil se at der er noget på klembordet, og gå i gang.
 Senere kan du tage flere byginger ad gangen, når du har fået fornemmelse om hvor lang tid det tager.
 
