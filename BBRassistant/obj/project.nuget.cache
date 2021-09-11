@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "ajxM+nR5vNqlP78cKJZunYMfMzdF74y3CUUYLxzoIcXkwL56ZWobI0fOIkv96ga0WenE1NsBRcfNl7xrkjezjg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\SDFE2OSM\\SDFE2OSM\\BBRassistant\\BBRassistant.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mico.PANTOINSPECT\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.2\\microsoft.extensions.logging.abstractions.2.0.2.nupkg.sha512",
+    "C:\\Users\\mico.PANTOINSPECT\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\mico.PANTOINSPECT\\.nuget\\packages\\nlog\\4.7.10\\nlog.4.7.10.nupkg.sha512",
+    "C:\\Users\\mico.PANTOINSPECT\\.nuget\\packages\\oauth.dotnetcore\\3.0.1\\oauth.dotnetcore.3.0.1.nupkg.sha512",
+    "C:\\Users\\mico.PANTOINSPECT\\.nuget\\packages\\osmapiclient\\0.0.7\\osmapiclient.0.0.7.nupkg.sha512",
+    "C:\\Users\\mico.PANTOINSPECT\\.nuget\\packages\\osmsharp\\7.0.0-pre014\\osmsharp.7.0.0-pre014.nupkg.sha512",
+    "C:\\Users\\mico.PANTOINSPECT\\.nuget\\packages\\protobuf-net\\2.4.6\\protobuf-net.2.4.6.nupkg.sha512",
+    "C:\\Users\\mico.PANTOINSPECT\\.nuget\\packages\\system.private.servicemodel\\4.5.3\\system.private.servicemodel.4.5.3.nupkg.sha512",
+    "C:\\Users\\mico.PANTOINSPECT\\.nuget\\packages\\system.reflection.dispatchproxy\\4.5.0\\system.reflection.dispatchproxy.4.5.0.nupkg.sha512",
+    "C:\\Users\\mico.PANTOINSPECT\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\mico.PANTOINSPECT\\.nuget\\packages\\system.servicemodel.primitives\\4.5.3\\system.servicemodel.primitives.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

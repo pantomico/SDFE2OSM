@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\SDFE2OSM\\SDFE2OSM\\BBRassistant\\BBRassistant.vbproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\SDFE2OSM\\SDFE2OSM\\BBRassistant\\BBRassistant.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\SDFE2OSM\\SDFE2OSM\\BBRassistant\\BBRassistant.vbproj",
+        "projectName": "BBRassistant",
+        "projectPath": "C:\\Projects\\SDFE2OSM\\SDFE2OSM\\BBRassistant\\BBRassistant.vbproj",
+        "packagesPath": "C:\\Users\\mico.PANTOINSPECT\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\SDFE2OSM\\SDFE2OSM\\BBRassistant\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mico.PANTOINSPECT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Projects\\SDFE2OSM\\SDFE2OSM\\DataFordeler\\DataFordeler.vbproj": {
+                "projectPath": "C:\\Projects\\SDFE2OSM\\SDFE2OSM\\DataFordeler\\DataFordeler.vbproj"
+              },
+              "C:\\Projects\\SDFE2OSM\\SDFE2OSM\\JOSM_Remote\\JOSM_Remote.vbproj": {
+                "projectPath": "C:\\Projects\\SDFE2OSM\\SDFE2OSM\\JOSM_Remote\\JOSM_Remote.vbproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\SDFE2OSM\\SDFE2OSM\\DataFordeler\\DataFordeler.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\SDFE2OSM\\SDFE2OSM\\DataFordeler\\DataFordeler.vbproj",
+        "projectName": "DataFordeler",
+        "projectPath": "C:\\Projects\\SDFE2OSM\\SDFE2OSM\\DataFordeler\\DataFordeler.vbproj",
+        "packagesPath": "C:\\Users\\mico.PANTOINSPECT\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\SDFE2OSM\\SDFE2OSM\\DataFordeler\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mico.PANTOINSPECT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\SDFE2OSM\\SDFE2OSM\\JOSM_Remote\\JOSM_Remote.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\SDFE2OSM\\SDFE2OSM\\JOSM_Remote\\JOSM_Remote.vbproj",
+        "projectName": "JOSM_Remote",
+        "projectPath": "C:\\Projects\\SDFE2OSM\\SDFE2OSM\\JOSM_Remote\\JOSM_Remote.vbproj",
+        "packagesPath": "C:\\Users\\mico.PANTOINSPECT\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\SDFE2OSM\\SDFE2OSM\\JOSM_Remote\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mico.PANTOINSPECT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Projects\\SDFE2OSM\\SDFE2OSM\\DataFordeler\\DataFordeler.vbproj": {
+                "projectPath": "C:\\Projects\\SDFE2OSM\\SDFE2OSM\\DataFordeler\\DataFordeler.vbproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "OsmApiClient": {
+              "target": "Package",
+              "version": "[0.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

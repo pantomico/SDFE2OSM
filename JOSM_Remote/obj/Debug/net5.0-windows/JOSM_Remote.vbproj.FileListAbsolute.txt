@@ -1,0 +1,16 @@
+C:\Users\mico.PANTOINSPECT\OneDrive\Documents\SDFE2OSM\JOSM_Remote\bin\Debug\net5.0-windows\JOSM_Remote.deps.json
+C:\Users\mico.PANTOINSPECT\OneDrive\Documents\SDFE2OSM\JOSM_Remote\bin\Debug\net5.0-windows\JOSM_Remote.dll
+C:\Users\mico.PANTOINSPECT\OneDrive\Documents\SDFE2OSM\JOSM_Remote\bin\Debug\net5.0-windows\ref\JOSM_Remote.dll
+C:\Users\mico.PANTOINSPECT\OneDrive\Documents\SDFE2OSM\JOSM_Remote\bin\Debug\net5.0-windows\JOSM_Remote.pdb
+C:\Users\mico.PANTOINSPECT\OneDrive\Documents\SDFE2OSM\JOSM_Remote\obj\Debug\net5.0-windows\JOSM_Remote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mico.PANTOINSPECT\OneDrive\Documents\SDFE2OSM\JOSM_Remote\obj\Debug\net5.0-windows\JOSM_Remote.AssemblyInfoInputs.cache
+C:\Users\mico.PANTOINSPECT\OneDrive\Documents\SDFE2OSM\JOSM_Remote\obj\Debug\net5.0-windows\JOSM_Remote.AssemblyInfo.vb
+C:\Users\mico.PANTOINSPECT\OneDrive\Documents\SDFE2OSM\JOSM_Remote\obj\Debug\net5.0-windows\JOSM_Remote.vbproj.CoreCompileInputs.cache
+C:\Users\mico.PANTOINSPECT\OneDrive\Documents\SDFE2OSM\JOSM_Remote\obj\Debug\net5.0-windows\JOSM_Remote.dll
+C:\Users\mico.PANTOINSPECT\OneDrive\Documents\SDFE2OSM\JOSM_Remote\obj\Debug\net5.0-windows\ref\JOSM_Remote.dll
+C:\Users\mico.PANTOINSPECT\OneDrive\Documents\SDFE2OSM\JOSM_Remote\obj\Debug\net5.0-windows\JOSM_Remote.pdb
+C:\Users\mico.PANTOINSPECT\OneDrive\Documents\SDFE2OSM\JOSM_Remote\bin\Debug\net5.0-windows\DataFordeler.dll
+C:\Users\mico.PANTOINSPECT\OneDrive\Documents\SDFE2OSM\JOSM_Remote\bin\Debug\net5.0-windows\DataFordeler.pdb
+C:\Users\mico.PANTOINSPECT\OneDrive\Documents\SDFE2OSM\JOSM_Remote\obj\Debug\net5.0-windows\JOSM_Remote.vbproj.CopyComplete
+C:\Users\mico.PANTOINSPECT\OneDrive\Documents\SDFE2OSM\JOSM_Remote\obj\Debug\net5.0-windows\JOSM_Remote.vbproj.AssemblyReference.cache
+C:\Users\mico.PANTOINSPECT\OneDrive\Documents\SDFE2OSM\JOSM_Remote\bin\Debug\net5.0-windows\DataFordeler.dll.config

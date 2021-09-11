@@ -1,0 +1,16 @@
+C:\Projects\SDFE2OSM\SDFE2OSM\JOSM_Remote\bin\Release\net5.0-windows\JOSM_Remote.deps.json
+C:\Projects\SDFE2OSM\SDFE2OSM\JOSM_Remote\bin\Release\net5.0-windows\JOSM_Remote.dll
+C:\Projects\SDFE2OSM\SDFE2OSM\JOSM_Remote\bin\Release\net5.0-windows\ref\JOSM_Remote.dll
+C:\Projects\SDFE2OSM\SDFE2OSM\JOSM_Remote\bin\Release\net5.0-windows\JOSM_Remote.pdb
+C:\Projects\SDFE2OSM\SDFE2OSM\JOSM_Remote\bin\Release\net5.0-windows\DataFordeler.dll
+C:\Projects\SDFE2OSM\SDFE2OSM\JOSM_Remote\bin\Release\net5.0-windows\DataFordeler.pdb
+C:\Projects\SDFE2OSM\SDFE2OSM\JOSM_Remote\bin\Release\net5.0-windows\DataFordeler.dll.config
+C:\Projects\SDFE2OSM\SDFE2OSM\JOSM_Remote\obj\Release\net5.0-windows\JOSM_Remote.vbproj.AssemblyReference.cache
+C:\Projects\SDFE2OSM\SDFE2OSM\JOSM_Remote\obj\Release\net5.0-windows\JOSM_Remote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SDFE2OSM\SDFE2OSM\JOSM_Remote\obj\Release\net5.0-windows\JOSM_Remote.AssemblyInfoInputs.cache
+C:\Projects\SDFE2OSM\SDFE2OSM\JOSM_Remote\obj\Release\net5.0-windows\JOSM_Remote.AssemblyInfo.vb
+C:\Projects\SDFE2OSM\SDFE2OSM\JOSM_Remote\obj\Release\net5.0-windows\JOSM_Remote.vbproj.CoreCompileInputs.cache
+C:\Projects\SDFE2OSM\SDFE2OSM\JOSM_Remote\obj\Release\net5.0-windows\JOSM_Remote.vbproj.CopyComplete
+C:\Projects\SDFE2OSM\SDFE2OSM\JOSM_Remote\obj\Release\net5.0-windows\JOSM_Remote.dll
+C:\Projects\SDFE2OSM\SDFE2OSM\JOSM_Remote\obj\Release\net5.0-windows\ref\JOSM_Remote.dll
+C:\Projects\SDFE2OSM\SDFE2OSM\JOSM_Remote\obj\Release\net5.0-windows\JOSM_Remote.pdb
